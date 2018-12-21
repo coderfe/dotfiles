@@ -1,0 +1,45 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "eq-material-theme-icons-ocean",
+  "editor.fontSize": 18,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 25,
+  "editor.smoothScrolling": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.rulers": [80],
+  "git.autofetch": true,
+  "files.autoSave": "off",
+  "files.eol": "\n",
+  "editor.fontFamily": "Fira Code Medium",
+  "workbench.statusBar.feedback.visible": false,
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "editor.cursorStyle": "line",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "window.zoomLevel": 0,
+  "files.associations": {
+    "*.mdx": "markdown"
+  },
+  "breadcrumbs.enabled": true,
+  "editor.renderControlCharacters": false,
+  "editor.cursorWidth": 3,
+  "files.insertFinalNewline": true,
+  "editor.letterSpacing": 1,
+  "workbench.colorTheme": "Shades of Purple",
+  "terminal.integrated.scrollback": 5000,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[markdown]": {
+    "editor.wordWrap": "bounded",
+    "editor.quickSuggestions": false
+  },
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.renderIndentGuides": false,
+  "editor.snippetSuggestions": "top",
+  "terminal.integrated.rendererType": "dom",
+  "editor.mouseWheelZoom": true
+}
